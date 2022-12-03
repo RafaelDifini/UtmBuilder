@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UtmBuilder.Site.props" />
+</Project>

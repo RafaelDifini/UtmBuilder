@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UtmBuilder.Mobile</name>
+    </assembly>
+    <members>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.WebsiteUrl">
+            <inheritdoc cref="F:UtmBuilder.Mobile.MainPageViewModel.websiteUrl"/>
+        </member>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.Id">
+            <inheritdoc cref="F:UtmBuilder.Mobile.MainPageViewModel.id"/>
+        </member>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.Source">
+            <inheritdoc cref="F:UtmBuilder.Mobile.MainPageViewModel.source"/>
+        </member>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.Medium">
+            <inheritdoc cref="F:UtmBuilder.Mobile.MainPageViewModel.medium"/>
+        </member>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.Name">
+            <inheritdoc cref="F:UtmBuilder.Mobile.MainPageViewModel.name"/>
+        </member>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.Term">
+            <inheritdoc cref="F:UtmBuilder.Mobile.MainPageViewModel.term"/>
+        </member>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.Content">
+            <inheritdoc cref="F:UtmBuilder.Mobile.MainPageViewModel.content"/>
+        </member>
+        <member name="F:UtmBuilder.Mobile.MainPageViewModel.copyToClipboardCommand">
+            <summary>The backing field for <see cref="P:UtmBuilder.Mobile.MainPageViewModel.CopyToClipboardCommand"/>.</summary>
+        </member>
+        <member name="P:UtmBuilder.Mobile.MainPageViewModel.CopyToClipboardCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:UtmBuilder.Mobile.MainPageViewModel.CopyToClipboard"/>.</summary>
+        </member>
+    </members>
+</doc>

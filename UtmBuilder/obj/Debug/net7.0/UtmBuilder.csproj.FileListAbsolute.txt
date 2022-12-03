@@ -1,0 +1,12 @@
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\bin\Debug\net7.0\UtmBuilder.deps.json
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\bin\Debug\net7.0\UtmBuilder.dll
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\bin\Debug\net7.0\UtmBuilder.pdb
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\UtmBuilder.csproj.AssemblyReference.cache
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\UtmBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\UtmBuilder.AssemblyInfoInputs.cache
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\UtmBuilder.AssemblyInfo.cs
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\UtmBuilder.csproj.CoreCompileInputs.cache
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\UtmBuilder.dll
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\refint\UtmBuilder.dll
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\UtmBuilder.pdb
+C:\workspace\Balta.IO\UtmBuilder\UtmBuilder\obj\Debug\net7.0\ref\UtmBuilder.dll
